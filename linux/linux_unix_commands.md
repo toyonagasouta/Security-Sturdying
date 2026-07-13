@@ -79,6 +79,7 @@ wget https://url       # ファイルダウンロード
 ssh user@host          # リモート接続
 scp file user@host:/path  # ファイル転送
 netstat -tulnp / ss -tulnp  # ポート使用状況確認
+nslookup 対象ドメイン　# 対象ドメインのipアドレス取得
 ```
 
 ## ディスク・システム情報
